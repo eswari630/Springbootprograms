@@ -1,0 +1,5 @@
+package com.sathya.orm.Entity;
+
+public class Book {
+
+}
